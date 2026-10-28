@@ -1,0 +1,69 @@
+body {
+  background-color: blanchedalmond;
+}
+
+#AAA {
+  font-size: 80px;
+  position: absolute;
+  top: 40px;
+  left: 530px;
+}
+
+#AA2 {
+  position: absolute;
+  top: 350px;
+  left: 40px;
+}
+
+#AA3 {
+  position: absolute;
+  top: 310px;
+  left: 870px;
+  font-size: 40px;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#AA4 {
+  position: absolute;
+  top: 400px;
+  left: 640px;
+  font-size: 20px;
+}
+
+#AA5 {
+  position: absolute;
+  top: 850px;
+  left: 40px;
+}
+
+#AA6 {
+  position: absolute;
+  top: 820px;
+  left: 650px;
+  font-size: 30px;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#AA7 {
+  position: absolute;
+  top: 900px;
+  left: 500px;
+  font-size: 20px;
+}
+
+span {
+  color: blue;
+  background-color: blanchedalmond;
+}
+
+span:hover {
+  background-color: gray;
+}
+
+#AA8 {
+  position: absolute;
+  top: 1200px;
+  font-size: 20px;
+}

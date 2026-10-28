@@ -1,0 +1,24 @@
+body {
+  background-color: blanchedalmond;
+}
+
+#AAA {
+  position: absolute;
+  top: 70px;
+  left: 530px;
+  font-size: 80px;
+}
+
+#AA2 {
+  position: absolute;
+  top: 300px;
+}
+
+#AA3 {
+  position: absolute;
+  top: 270px;
+  left: 1030px;
+  font-size: 30px;
+  color: blue;
+  font-family: fantasy;
+}

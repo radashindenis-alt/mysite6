@@ -1,0 +1,83 @@
+body {
+  background-color: bisque;
+}
+
+.AAA {
+  color: black;
+  position: absolute;
+  top: 100px;
+  left: 520px;
+  font-size: 60px;
+}
+
+.AA2 {
+  position: absolute;
+  top: 270px;
+  left: 30px;
+  font-size: 20px;
+}
+
+.AA3 {
+  text-decoration: none;
+  position: absolute;
+  top: 400px;
+  left: 45px;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  border: 4px solid gray;
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+a:hover {
+  background-color: beige;
+  color: grey;
+  border: 4px solid black;
+  border-radius: 5px;
+}
+
+img {
+  width: 1500px;
+  height: 150px;
+}
+
+.AA4 {
+  text-decoration: none;
+  position: absolute;
+  top: 500px;
+  left: 45px;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  border: 4px solid gray;
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+a:hover {
+  background-color: beige;
+  color: grey;
+  border: 4px solid black;
+  border-radius: 5px;
+}
+
+.AA5 {
+  text-decoration: none;
+  position: absolute;
+  top: 600px;
+  left: 45px;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  border: 4px solid gray;
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+a:hover {
+  background-color: beige;
+  color: grey;
+  border: 4px solid black;
+  border-radius: 5px;
+}
